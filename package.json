@@ -1,0 +1,22 @@
+{
+  "name": "glovo-cli-makeorder",
+  "version": "1.0.0",
+  "description": "Ordering glovo directly from terminal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/raducugarjoaba/glovo-cli-makeorder.git"
+  },
+  "author": "Raducu Garjoaba",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raducugarjoaba/glovo-cli-makeorder/issues"
+  },
+  "homepage": "https://github.com/raducugarjoaba/glovo-cli-makeorder#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  }
+}
